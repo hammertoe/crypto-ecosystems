@@ -905,6 +905,71 @@ url = "https://github.com/XRP-Pete/xrp-redis-walletgen"
 url = "https://github.com/xrparcade/XRPArcadeTipper"
 
 [[repo]]
+url = "https://github.com/XRPL-Labs/tangem-backup"
+tags = ["Wallet"]
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/DEX-xApp"
+tags = ["Wallet"]
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/XUMM-App"
+tags = ["Wallet"]
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/xrpld-hooks"
+
+[[repo]]
+url ="https://github.com/XRPL-Labs/path-find-xapp"
+tags = ["Wallet"]
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/XUMM-Developer-Console"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/XUMM-SDK"
+tags = ["Library", "Developer Tool"]
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/tangem-sdk-react-native"
+tags = ["Library", "Developer Tool"]
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/xrpl-client"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/Hooks-Website"
+tags = ["Website"]
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/TxMutationParser"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/verify-xrpl-signature"
+tags = ["Library", "Developer Tool"]
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/XUMM-Issue-Tracker"
+tags = ["Website"]
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/xapp-proxy-for-xumm-api"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/account-merge"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/Vanity-Backend"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/net-worth-xapp"
+tags = ["Wallet"]
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/xumm-string-decode"
+tags = ["Library", "Developer Tool"]
+
+[[repo]]
 url = "https://github.com/XRPL-Labs/XRP-Price-Aggregator"
 
 [[repo]]
@@ -972,3 +1037,156 @@ url = "https://github.com/yuki777/xrp-paper-wallet"
 
 [[repo]]
 url = "https://github.com/zapstergateway/woocommerce-gateway"
+
+[[repo]]
+url = "https://github.com/sologenic/sologenic.github.io"
+tags = ["Website"]
+
+[[repo]]
+url = "https://github.com/sologenic/sologenic-xrpl-stream-js"
+tags = ["Library", "Developer Tool"]
+
+[[repo]]
+url = "https://github.com/sologenic/sologenic-electron-wallet"
+tags = ["Wallet"]
+
+[[repo]]
+url = "https://github.com/sologenic/sologenic-expo-wallet"
+tags = ["Wallet"]
+
+[[repo]]
+url = "https://github.com/sologenic/solo-wallet-tx-delivery"
+
+[[repo]]
+url = "https://github.com/sologenic/sologenic-api"
+
+[[repo]]
+url = "https://github.com/sologenic/solo-issuance"
+
+[[repo]]
+url = "https://github.com/sologenic/integration-guide"
+tags = ["Documentation"]
+
+[[repo]]
+url = "https://github.com/francisrosario/xumm4j"
+tags = ["Library", "Developer Tool"]
+
+[[repo]]
+url = "https://github.com/nixer89/xumm-community"
+tags = ["Website"]
+
+[[repo]]
+url = "https://github.com/nixer89/generic-xumm-backend"
+
+[[repo]]
+url = "https://github.com/nixer89/xrpl-data-api"
+
+[[repo]]
+url = "https://github.com/nixer89/xrpl-data-backend"
+
+[[repo]]
+url = "https://github.com/nixer89/XRPL-christmas-tree"
+tags = ["Website"]
+
+[[repo]]
+url = "https://github.com/nixer89/xumm-xapp-token-create"
+tags = ["Wallet"]
+
+
+[[repo]]
+url = "https://github.com/nixer89/xumm-xapp-nft-create"
+tags = ["Wallet"]
+
+[[repo]]
+url = "https://github.com/nixer89/xumm-community-transaction-executor"
+
+[[repo]]
+url = "https://github.com/nixer89/xumm-alexa-skill"
+
+[[repo]]
+url = "https://github.com/nixer89/xrptipbot-statistics"
+tags = ["Website"]
+
+[[repo]]
+url = "https://github.com/nixer89/xumm-xapp-escrow-create"
+tags = ["Wallet"]
+
+[[repo]]
+url = "https://github.com/nixer89/xrpl-token-distributor"
+
+[[repo]]
+url = "https://github.com/nixer89/vanity-address-backend"
+
+[[repo]]
+url = "https://github.com/nixer89/xrpl-escrow-executer"
+
+[[repo]]
+url = "https://github.com/nixer89/xrptipbotstats-twitter-bot"
+
+[[repo]]
+url = "https://github.com/nixer89/xrptipbot-feedscan"
+
+[[repo]]
+url = "https://github.com/nixer89/vanity-search-backend"
+
+[[repo]]
+url = "https://github.com/nixer89/ledger-observer"
+tags = ["Website"]
+
+[[repo]]
+url = "https://github.com/nixer89/xrp-vanity-generator"
+
+[[repo]]
+url = "https://github.com/nixer89/lottery"
+
+[[repo]]
+url = "https://github.com/nixer89/xrptipbot-api"
+
+[[repo]]
+url = "https://github.com/nixer89/xumm-generic-pay-button"
+
+[[repo]]
+url = "https://github.com/nixer89/xumm-generic-donate-button"
+
+[[repo]]
+url = "https://github.com/rslater12/NFC-URL-Payload-for-XUMM"
+
+[[repo]]
+url = "https://github.com/rslater12/Node-MYSQL-XUMM-2FA"
+
+[[repo]]
+url = "https://github.com/rslater12/XUMM-Maglock-Release"
+
+[[repo]]
+url = "https://github.com/jfgrissom/passport-xumm"
+tags = ["Library", "Developer Tool"]
+
+[[repo]]
+url = "https://github.com/jfgrissom/xrpl-hooks-hello-world-as"
+tags = ["Documentation", "Developer Tool"]
+
+[[repo]]
+url = "https://github.com/jfgrissom/xrpl-hooks-api-assembly-script"
+tags = ["Developer Tool"]
+
+[[repo]]
+url = "https://github.com/MateoXRP/public-square"
+
+[[repo]]
+url = "https://github.com/ntls-io/nautilus-wallet"
+tags = ["Wallet"]
+
+[[repo]]
+url = "https://github.com/jremi/xrphone"
+
+[[repo]]
+url = "https://github.com/otov4its/xrpl-hooks"
+tags = ["Developer Tool"]
+
+[[repo]]
+url = "https://github.com/Aesthetes/NFT_visualizer"
+
+[[repo]]
+url = "https://github.com/Aesthetes/Aesthetes-NFTs"
+tags = ["Documentation"]
+
